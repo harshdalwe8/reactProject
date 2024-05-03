@@ -1,10 +1,10 @@
 import './App.css';
-import DynamicComponent from './Components/Home/DynamicComponent';
+import HeaderComponent from './Components/Header/HeaderComponent';
 
 function App() {
   return (
     <div className="App">
-      <DynamicComponent />
+      <HeaderComponent />
     </div>
   );
 }

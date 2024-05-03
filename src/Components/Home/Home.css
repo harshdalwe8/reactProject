@@ -1,0 +1,40 @@
+.home-container {
+    color: #fff; /* Text color */
+    
+    /* width: 100%; */
+  }
+  
+  .hero-section {
+    background-image: url('https://wallpapercave.com/wp/wp4371658.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .hero-content {
+    /* max-width: 800px; */
+  }
+  
+  .navbar {
+    /* Style your navigation bar */
+  }
+  
+  .content-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .content-thumbnail {
+    /* Style your content thumbnails or cards */
+  }
+  
+  .category-section {
+    /* Style additional sections as needed */
+  }
+  
